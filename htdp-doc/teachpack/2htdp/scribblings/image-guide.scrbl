@@ -110,7 +110,7 @@ door.
 
 @section{Rotating and Overlaying: A Rotary Phone Dial}
 
-A rotary phone dial can be built by from a black disk and 10 little white ones
+A rotary phone dial can be built from a black disk and 10 little white ones
 by placing the white disks, one at a time, at the top of the black disk and
 then rotating the entire black disk. To get started, lets define a function
 to make little white disks with numbers on them:
