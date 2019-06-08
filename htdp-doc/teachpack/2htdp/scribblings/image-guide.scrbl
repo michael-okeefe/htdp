@@ -219,7 +219,7 @@ a little.
 @section{Alpha Blending}
 
 With shapes that have opaque colors like @racket["red"] and @racket["blue"], 
-overlaying one on top completely blots out the one one the bottom. 
+overlaying one on top completely blots out the one on the bottom.
 
 For example, the red rectangle here completely covers the blue one.
 
